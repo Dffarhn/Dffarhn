@@ -1,7 +1,7 @@
-### Hi there 👋
+# Hi there 👋
 
-# 💫 About Me:
-I'm Muhammad Daffa Raihan, a student at Universitas Islam Indonesia with a passion for backend web and mobile development, as well as CRUD databases.Whether it's building APIs with Express.js or crafting data models, When u know me u will founnd the backend fascinating<br>I'm driven to:<br>Continuously learn and improve my skills in backend and database development .<br>Collaborate with teams to build exciting projects .<br>Contribute to the open-source community <br><br>**Let's exchange ideas and build something amazing! **
+## 💫 About Me:
+I'm Muhammad Daffa Raihan, a student at Universitas Islam Indonesia with a passion for backend web and mobile development, as well as CRUD databases.Whether it's building APIs with Express.js or crafting data models, When u know me u will founnd the backend fascinating<br><br>I'm driven to:<br>Continuously learn and improve my skills in backend and database development .<br>Collaborate with teams to build exciting projects .<br>Contribute to the open-source community <br><br>**Let's exchange ideas and build something amazing! **
 
 
 ## 🌐 Socials:
