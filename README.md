@@ -1,24 +1,89 @@
-# Hi there 👋
+<div align="center">
 
-## 💫 About Me:
-I'm Muhammad Daffa Raihan, a student at Universitas Islam Indonesia with a passion for backend web and mobile development, as well as CRUD databases.Whether it's building APIs with Express.js or crafting data models, When u know me u will found the backend fascinating<br><br>I'm driven to:<br>  -Continuously learn and improve my skills in backend and database development .<br>  -Collaborate with teams to build exciting projects .<br>  -Contribute to the open-source community <br><br>**Let's exchange ideas and build something amazing!**
+# 👋 Hi, I'm Muhammad Daffa Raihan
 
+### This GitHub account is no longer my primary account.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dffar.hn) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daffa-raihan-5aa960277/) 
+I have moved my active development, projects, and contributions to:
 
-# 💻 Tech Stack:
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Dffarhn&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Dffarhn&theme=nightowl&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dffarhn&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 👉 [github.com/Dffarhn2004](https://github.com/Dffarhn2004)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Dffarhn&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
+[![New GitHub Account](https://img.shields.io/badge/New_GitHub-Dffarhn2004-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dffarhn2004)
+[![Portfolio](https://img.shields.io/badge/Portfolio-daffaraihan.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://daffaraihan.vercel.app)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
+</div>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Dffarhn&limit=5&theme=dracula&combine_all_yearly_contributions=true)
+---
+
+## 🚚 Account Migration
+
+This account, **@Dffarhn**, was my previous GitHub account.
+
+My current and actively maintained account is:
+
+### **[@Dffarhn2004](https://github.com/Dffarhn2004)**
+
+All new projects, updates, experiments, and open-source contributions will now be published there.
+
+If you arrived here from an old repository, contribution, or profile link, please visit my new account instead.
+
+---
+
+## 👨‍💻 About Me
+
+I'm **Muhammad Daffa Raihan**, a backend-focused software developer interested in building reliable and scalable systems.
+
+My current focus includes:
+
+- Backend engineering
+- Go and Node.js development
+- REST API architecture
+- Flutter development
+- PostgreSQL and MySQL
+- AI agents and LLM-based systems
+- Retrieval-Augmented Generation
+- DevOps and deployment workflows
+- Clean architecture and maintainable systems
+
+---
+
+## 🌟 Current Highlights
+
+### 👨‍💻 Personal Portfolio
+
+My portfolio contains selected projects, technical experience, and engineering work.
+
+[![Visit Portfolio](https://img.shields.io/badge/Visit_Portfolio-daffaraihan.vercel.app-000000?style=flat-square&logo=vercel&logoColor=white)](https://daffaraihan.vercel.app)
+
+### 🍽️ Mibebi
+
+A digital platform built around practical workflows for restaurant and culinary businesses.
+
+[![Visit Mibebi](https://img.shields.io/badge/Visit-Mibebi.com-22C55E?style=flat-square&logo=googlechrome&logoColor=white)](https://mibebi.com)
+
+### 🚀 IMUII
+
+A lab project focused on developer workflows, deployment automation, and modern web development.
+
+[![Visit IMUII](https://img.shields.io/badge/Visit-imuii.id-7C3AED?style=flat-square&logo=rocket&logoColor=white)](https://imuii.id)
+
+---
+
+## 🌐 Find Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-Dffarhn2004-181717?style=for-the-badge&logo=github)](https://github.com/Dffarhn2004)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-000000?style=for-the-badge&logo=vercel)](https://daffaraihan.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Daffa_Raihan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daffa-raihan-5aa960277/)
+[![Instagram](https://img.shields.io/badge/Instagram-dffar.hn-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dffar.hn)
+
+---
+
+<div align="center">
+
+### Looking for my latest work?
+
+## ➜ [Visit my new GitHub account](https://github.com/Dffarhn2004)
+
+<sub>This account is kept for historical references and older contributions.</sub>
+
+</div>
